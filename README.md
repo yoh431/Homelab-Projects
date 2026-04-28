@@ -19,3 +19,12 @@ This project demonstrates setting up a Windows Server 2022 domain controller usi
 ### 4. Installed Active Directory
 - Promoted server to Domain Controller
 - Created domain: mydomain.local
+
+- ### 5. Created Organizational Units and Users
+- Created departments: HR, IT, Sales
+- Added multiple users to simulate a company environment
+
+### 6. Performed IT Support Tasks
+- Reset user passwords
+- Disabled and re-enabled accounts
+- Managed user group memberships

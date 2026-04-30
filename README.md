@@ -29,3 +29,9 @@ This project demonstrates setting up a Windows Server 2022 domain controller usi
 - Reset user passwords
 - Disabled and re-enabled accounts
 - Managed user group memberships
+
+### 7. Troubleshooting Domain Joining Issues
+- Testing Ip configs
+- Utilising VM settings
+- Temporarily removing Firewall
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4c6b65f8-99d7-4888-8605-e64b2b89e454" />

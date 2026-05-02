@@ -1,4 +1,4 @@
-# Active Directory Home Lab
+# Homelab-Projects
 
 A fully documented Windows Server 2022 + Active Directory lab, built to simulate real-world enterprise IT support scenarios.
 

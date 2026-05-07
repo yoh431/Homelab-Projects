@@ -36,4 +36,7 @@ complexity requirements
 Screenshot: Prevent changing desktop background set to Enabled
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6bb5387d-c923-4e84-bac5-da54a96590ac" />
 
+📸 Screenshot: gpupdate /force completing successfully
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2cdd099c-969b-4519-8535-909314d1643e" />
+
 

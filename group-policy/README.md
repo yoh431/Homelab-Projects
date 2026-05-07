@@ -29,3 +29,7 @@ complexity requirements
 
 📸 Screenshot: Desktop Restrictions GPO visible under the HR OU
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1cd0fff6-a4de-42f1-a02c-31777d931d06" />
+
+Screenshot: Prevent changing desktop background set to Enabled
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6c5b831f-ee1b-4fbf-b9d9-8eeb3c6ad250" />
+

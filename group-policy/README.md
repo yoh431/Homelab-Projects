@@ -39,4 +39,10 @@ Screenshot: Prevent changing desktop background set to Enabled
 📸 Screenshot: gpupdate /force completing successfully
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2cdd099c-969b-4519-8535-909314d1643e" />
 
+📸 Screenshot: The restriction error message blocking Control Panel
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ba9d7cf3-8caf-4efd-bb1f-1fa32f4394b4" />
+
+📸 Screenshot: That error message on CLIENT01 — it proves the wallpaper restriction is active
+<img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/7a9bb49a-ffac-4bdb-bc8a-98ee04c302f8" />
+
 

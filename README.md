@@ -32,11 +32,18 @@ Automating AD user account creation and offboarding using PowerShell scripts dri
 
 ---
 
+### 3. Group Policy Objects
+Configuring and testing GPOs to enforce password policies, account lockout rules, and desktop restrictions across the domain.
+
+[View project →](./group-policy/README.md)
+
+---
+
 ## Roadmap
 
 | Priority | Task | Notes |
 |---|---|---|
-| Up next | Group Policy Objects | Password policy, desktop restrictions, drive mapping via GPO |
+| ✅ Done | Group Policy Objects | Password policy, account lockout, desktop restrictions |
 | Up next | Helpdesk ticketing (osTicket) | Simulate and document real IT support scenarios end-to-end |
 | Planned | File server + permissions | Shared folders with OU-based NTFS permissions and audit logging |
 | Planned | Second client VM | Simulate multi-user environment and test GPO deployment |

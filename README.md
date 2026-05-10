@@ -39,11 +39,18 @@ Configuring and testing GPOs to enforce password policies, account lockout rules
 
 ---
 
+### 4. osTicket Helpdesk
+Installing and configuring osTicket to simulate real IT support scenarios, processing and resolving tickets end-to-end.
+
+[View project →](./osticket-helpdesk/README.md)
+
+---
+
 ## Roadmap
 
 | Priority | Task | Notes |
 |---|---|---|
 | ✅ Done | Group Policy Objects | Password policy, account lockout, desktop restrictions |
-| Up next | Helpdesk ticketing (osTicket) | Simulate and document real IT support scenarios end-to-end |
+| ✅ Done | Helpdesk ticketing (osTicket) | Simulated and resolved real helpdesk scenarios end-to-end |
 | Planned | File server + permissions | Shared folders with OU-based NTFS permissions and audit logging |
 | Planned | Second client VM | Simulate multi-user environment and test GPO deployment |
